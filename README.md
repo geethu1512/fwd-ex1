@@ -1,6 +1,6 @@
 # EX01 Developing a Simple Webserver
 ## Date: 18.03.2025
-## Register No:212224040089
+## Register No: 212224040089
 
 ## AIM:  
 To create a structured HTML table to display data using HTML tags.
