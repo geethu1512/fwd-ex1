@@ -72,7 +72,9 @@ print("my webserver is running...")
 httpd.serve_forever()
 '''
 ## OUTPUT:
+
 ![● README md - web - Visual Studio Code 18-03-2025 10_56_22](https://github.com/user-attachments/assets/27084066-655f-4866-816f-aa63315d3d75)
+
 ![Styled Table - Google Chrome 18-03-2025 10_43_22](https://github.com/user-attachments/assets/09d38235-5710-4213-ac29-713a4b7e7561)
 
 
